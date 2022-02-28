@@ -8,6 +8,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
+    width: auto;
     background: url("4ironman.jpg") no-repeat center center fixed;
     background-size: cover;
     font-family: sans-serif;
