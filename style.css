@@ -9,7 +9,8 @@ body{
     align-items: center;
     height: auto;
     width: auto;
-    background: url("avengers-endgame-whatever-it-takes-i74250.jpg") no-repeat center center fixed;
+    background: url("Iron-Man-2008-Movie-Poster.jpg") no-repeat center center fixed;
+    background-size: cover;
     font-family: sans-serif;
 }
 .form{
