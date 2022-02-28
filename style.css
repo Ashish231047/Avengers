@@ -8,8 +8,8 @@ body{
     justify-content: center;
     align-items: center;
     height: auto;
+    Width:auto;
     background: url("Iron-Man-2008-Movie-Poster.jpg") no-repeat center center fixed;
-    background-size: cover;
     font-family: sans-serif;
 }
 .form{
