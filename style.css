@@ -17,7 +17,7 @@ body{
     width: 500px;
     margin: 50px;
     padding: 30px 20px;
-    background: none;
+    background: cover;
     color: #fff;
     user-select: none;
     box-shadow: -5px -5px 10px rgba(0, 0, 0, .35),
